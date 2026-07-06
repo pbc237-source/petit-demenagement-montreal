@@ -1,12 +1,14 @@
-SITE PETIT DÉMÉNAGEMENT MONTRÉAL - VERSION DODGE GRAND CARAVAN
+SITE PETIT DEMENAGEMENT MONTREAL - VERSION FINALE
 
-Déploiement Vercel Drop:
-1. Décompressez le ZIP.
-2. Glissez le dossier complet sur Vercel.
-3. Cliquez Deploy.
+Important:
+- La photo de couverture est: images/cover.jpg
+- Pour changer la photo, remplace seulement ce fichier en gardant le même nom.
+- Ne change pas le HTML/CSS si tu veux seulement modifier la photo.
 
-Image de couverture:
-images/dodge-caravan-cover.png
+Déploiement GitHub/Vercel:
+1. Upload tout le contenu du dossier dans GitHub.
+2. Vérifie que GitHub affiche un dossier images avec cover.jpg dedans.
+3. Vercel déploiera automatiquement.
 
 Numéro utilisé partout:
 418 802 5370
